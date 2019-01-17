@@ -1,0 +1,27 @@
+{
+    "app_name": "Trình Chiếu Cơ Đốc",
+    "author" :"FaithStocks",
+    "programer": "Phan Minh Vĩnh An",
+    "designer": "Nguyễn Ngọc Thiên Lộc",
+    "app":{
+        "date_relase": "17/1/2019",
+        "version": "1.0"
+    },
+    "thanhca903":{
+        "date_relase": "17/1/2019",
+        "version": "1.0"
+    },
+    "tvchh":{
+        "date_relase": "17/1/2019",
+        "version": "1.0"
+    },
+    "btc":{
+        "date_relase": "17/1/2019",
+        "version": "1.0"
+    },
+    "kt":{
+        "date_relase": "17/1/2019",
+        "version": "1.0"
+    }
+    
+}
