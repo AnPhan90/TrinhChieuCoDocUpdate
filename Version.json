@@ -3,25 +3,11 @@
     "author" :"FaithStocks",
     "programer": "Phan Minh Vĩnh An",
     "designer": "Nguyễn Ngọc Thiên Lộc",
-    "app":{
-        "date_relase": "17/1/2019",
-        "version": "1.0"
-    },
-    "thanhca903":{
-        "date_relase": "17/1/2019",
-        "version": "1.0"
-    },
-    "tvchh":{
-        "date_relase": "17/1/2019",
-        "version": "1.0"
-    },
-    "btc":{
-        "date_relase": "17/1/2019",
-        "version": "1.0"
-    },
-    "kt":{
-        "date_relase": "17/1/2019",
-        "version": "1.0"
-    }
+    "app_version": "1.20190122",
+    "tc_version": "1.20190122",
+    "tvchh_version": "1.20190122",
+    "ktdd_version": "1.20190122",
+    "kt_version": "1.20190122"
+
     
 }
