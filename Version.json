@@ -1,17 +1,25 @@
 {
-    "app_name": "Trình Chiếu Cơ Đốc Basic",
+    "app_name": "Trình Chiếu Cơ Đốc",
     "author" :"MediaTinLanh.com",
     "programer": "Phan Minh Vĩnh An",
     "designer": "Nguyễn Ngọc Thiên Lộc",
+
     "app_version": "1.20200928",
     "tc_version": "1.20190712",
     "tvchh_version": "1.20190122",
     "ktdd_version": "1.20190122",
     "kt_version": "1.20190122",
     "app_version_full_string":  "v1.2 (2020-09-28)",
-    "url_update_windows_1" : "https://1onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%2133143&authkey=AJ0wJYy_Wnewi_Q",
-    "url_update_windows_2" : "https://onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%2133143&authkey=AJ0wJYy_Wnewi_Q",
-    "url_update_mac_1" : "https://1onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%2133144&authkey=AFNCXW9VVySDKJM",
-    "url_update_mac_2" : "https://onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%2133144&authkey=AFNCXW9VVySDKJM",
+    
+    "app_version_windows": "3.20220409",
+    "app_version_full_windows":  "v3.0 (2022-04-09)",
+    "url_update_windows_1" : "https://mediatinlanh.com/download/v3/TrinhChieuCoDocSetup_3_0_2022_04_09_Winx64.exe",
+    "url_update_windows_2" : "https://onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%21161298&authkey=AAIupFMJZfRigmo",
+    
+    "app_version_mac": "3.20220409",
+    "app_version_full_mac":  "v3.0 (2022-04-09)",
+    "url_update_mac_1" : "https://mediatinlanh.com/download/v3/TrinhChieuCoDocSetup_3_0_2022_04_09_macOS_3_0.pkg",
+    "url_update_mac_2" : "https://onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%21161296&authkey=AMEaQ0YwH_wZNBU",
+    
     "info_update": "https://mediatinlanh.com/phan-mem/"
 }
