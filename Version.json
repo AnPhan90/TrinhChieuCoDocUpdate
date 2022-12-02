@@ -11,10 +11,10 @@
     "kt_version": "1.20190122",
     "app_version_full_string":  "v1.2 (2020-09-28)",
     
-    "app_version_windows": "3.20220409",
-    "app_version_full_windows":  "v3.0 (2022-04-09)",
-    "url_update_windows_1" : "https://mediatinlanh.com/download/v3/TrinhChieuCoDocSetup_3_0_2022_04_09_Winx64.exe",
-    "url_update_windows_2" : "https://onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%21161298&authkey=AAIupFMJZfRigmo",
+    "app_version_windows": "3.20221204",
+    "app_version_full_windows":  "v3.1 (2022-12-04)",
+    "url_update_windows_1" : "https://mediatinlanh.com/download/v3/TrinhChieuCoDocSetup_3_1_2022-12-04_Winx64.exe",
+    "url_update_windows_2" : "https://onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%21172570&authkey=APveGmaUIYjAUeI",
     
     "app_version_mac": "3.20220409",
     "app_version_full_mac":  "v3.0 (2022-04-09)",
