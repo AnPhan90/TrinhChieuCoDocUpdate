@@ -11,9 +11,9 @@
     "kt_version": "1.20190122",
     "app_version_full_string":  "v1.2 (2020-09-28)",
     
-    "app_version_windows": "3.20221205",
-    "app_version_full_windows":  "v3.0.1 (2022-12-02)",
-    "url_update_windows_1" : "https://mediatinlanh.com/download/v3/TrinhChieuCoDocSetup_3_0_1_2022-12-02_Winx64.exe",
+    "app_version_windows": "3.20231010",
+    "app_version_full_windows":  "v3.0.2 (2023-10-10)",
+    "url_update_windows_1" : "https://mediatinlanh.com/download/v3/TrinhChieuCoDocSetup_3_0_2_2023-10-10_Winx64.exe",
     "url_update_windows_2" : "https://onedrive.live.com/download?cid=87CF9E243327F420&resid=87CF9E243327F420%21172572&authkey=ABOOTN-2BboN7YQ",
     
     "app_version_mac": "3.20221205",
